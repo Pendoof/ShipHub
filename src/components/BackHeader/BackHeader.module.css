@@ -1,0 +1,15 @@
+.backHeader {
+    padding: 0.25rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.backHeader a {
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+.backHeader h1 {
+    margin: 0;
+}
