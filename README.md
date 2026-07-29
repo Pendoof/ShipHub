@@ -75,7 +75,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![video walkthrough](https://github.com/user-attachments/assets/83513160-e889-4abf-a265-608cbe25364a)
+![video walkthrough](https://github.com/user-attachments/assets/20751cfe-0d83-49b1-9566-28417875538c)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
